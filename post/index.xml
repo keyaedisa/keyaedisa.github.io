@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Blog on Welcome to Key&#39;s Corner!</title>
+    <title>My Blog on Key&#39;s Corner!</title>
     <link>http://example.org/post/</link>
-    <description>Recent content in My Blog on Welcome to Key&#39;s Corner!</description>
+    <description>Recent content in My Blog on Key&#39;s Corner!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Sep 2022 10:17:19 +0800</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
