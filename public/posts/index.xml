@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Key&#39;s Corner!</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Key&#39;s Corner!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 27 Nov 2022 18:10:12 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/posts/firstpost/</link>
+      <pubDate>Sun, 27 Nov 2022 18:10:12 -0500</pubDate>
+      
+      <guid>http://example.org/posts/firstpost/</guid>
+      <description>Hi! My name&amp;rsquo;s key and this is my first test post! I am not sure what to put here but this is just a test!</description>
+    </item>
+    
+  </channel>
+</rss>

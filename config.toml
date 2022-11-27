@@ -1,0 +1,64 @@
+baseURL = "http://example.org/"
+defaultContentLanguage = "en"
+languageCode = "en"
+enableEmoji = true
+#enableRobotsTXT = true
+
+
+title = "Key's Corner!"
+
+theme = "gokarna"
+
+# Automatically generate robots.txt
+enableRobotsTXT = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<span data-feather='home'></span>"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    pre = "<span data-feather='book'></span>"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Projects"
+    pre = "<span data-feather='code'></span>"
+    url = "/projects/"
+    weight = 3
+
+#  [[menu.main]]
+#    name = "Tags"
+#    pre = "<span data-feather='tag'></span>"
+#    url = "/tags/"
+#    weight = 4
+
+  [[menu.main]]
+    identifier = "github"
+    pre = "<span data-feather='github'></span>"
+    url = "https://github.com/keyaedisa"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "buymeacoffee"
+    pre = "<span data-feather='coffee'></span>"
+    url = "https://www.buymeacoffee.com/keyaedisa"
+    weight = 5
+
+#  [[menu.main]]
+#    identifier = "rss"
+#    pre = "<span data-feather='rss'></span>"
+#    url = "/index.xml"
+#    weight = 7
+
+[params]
+
+	footer = "WorldEater"
+	description = "Welcome to my corner of the internet!"
+	avatarURL = "/images/purplespace.jpg"
+  	AvatarAltText = "avatar"
+  	avatarSize = "size-m"
