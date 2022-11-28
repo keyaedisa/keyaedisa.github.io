@@ -63,6 +63,7 @@ enableRobotsTXT = true
   	AvatarAltText = "avatar"
   	avatarSize = "size-m"
 	accentColor = "#D337E6"
+	pygmentsStyle = "paraiso-dark"
 
 	socialIcons = [
     {name = "twitter", url = "https://twitter.com/W0rldE4ter"},
