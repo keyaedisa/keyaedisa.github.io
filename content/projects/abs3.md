@@ -25,4 +25,5 @@ comes to building their own ISO. Of course, you will still need to have some
 sort of background knowledge but the main goal with abs is to streamline every
 part of the ISO creation and build process so that even newbies can build an ISO
 with confidence. If anyone is interested in getting involved with the project,
-please feel free to reach out to me on [twitter](https://twitter.com/keyaedisa)!
+please feel free to reach out to me on
+[twitter](https://twitter.com/W0rldE4ter)!
