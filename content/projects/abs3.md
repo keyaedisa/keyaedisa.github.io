@@ -1,6 +1,7 @@
 ---
 title: "Abs 3.0"
 date: 2022-11-27T20:22:16-05:00
+type: page
 ---
 
 # Project Scope
