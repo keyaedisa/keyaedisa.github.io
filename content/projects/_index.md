@@ -7,9 +7,9 @@ type: page
 
 ### My "completed" projects are:
 
-1. [abs 2.0](/projects/abs/)
+- [abs 2.0](/projects/abs/)
 
 
 ### My upcoming projects are:
 
-1. [abs 3.0](/projects/abs3/)
+- [abs 3.0](/projects/abs3/)
