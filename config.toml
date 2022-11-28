@@ -67,7 +67,7 @@ enableRobotsTXT = true
 
 	socialIcons = [
     {name = "twitter", url = "https://twitter.com/W0rldE4ter"},
-#    {name = "linkedin", url = "https://example.com"},
+    {name = "github", url = "https://github.com/keyaedisa"},
 #    {name = "stackoverflow", url = "https://example.com"},
     {name = "buymeacoffee", url = "https://buymeacoffee.com/keyaedisa"},
 #    {name = "instagram", url = "https://example.com"},
