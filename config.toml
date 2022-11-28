@@ -62,3 +62,13 @@ enableRobotsTXT = true
 	avatarURL = "/images/purplespace.jpg"
   	AvatarAltText = "avatar"
   	avatarSize = "size-m"
+
+	socialIcons = [
+    {name = "twitter", url = "https://twitter.com/W0rldE4ter"},
+#    {name = "linkedin", url = "https://example.com"},
+#    {name = "stackoverflow", url = "https://example.com"},
+#    {name = "git", url = "https://example.com"},
+#    {name = "instagram", url = "https://example.com"},
+    {name = "twitch", url = "https://twitch.tv/keyaedisa"},
+    {name = "email", url = "mailto:keyaedisa@proton.me"}
+  ]
