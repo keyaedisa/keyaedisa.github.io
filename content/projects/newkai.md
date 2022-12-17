@@ -1,11 +1,8 @@
 ---
 title: "newKai + newKaiso"
 date: 2022-12-14T17:57:33-05:00
-draft: false
-type: page
+type: post
 ---
-
-# newKai
 
 newKai is the successor to a project I called Kairo. Kairo was my first
 attempt at building my own Arch ISO. Kairo used Arco's base. newKai was

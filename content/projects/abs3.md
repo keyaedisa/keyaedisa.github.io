@@ -7,8 +7,6 @@ type: page
 
 ![abs 3.0 preview](/images/abs3.png "abs 3.0")
 
-# ABS 3.0
-
 abs 3.0 is another rewrite of abs. It adds several options over 2.0.
 abs 3.0's presence in the terminal is also different than that of 2.0.
 It has been redesigned to be simpler yet still retaining the color and

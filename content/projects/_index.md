@@ -10,8 +10,8 @@ type: page
 
 - [abs 3.0](/projects/abs3/)
 
-- [newKai](/projects/newKai/)
+- [newKai](/projects/newkai/)
 
-- [ValenSE](/projects/ValenSE/)
+- [ValenOS](/projects/valenos/)
 
-- [ValenOS](/projects/ValenOS/)
+- [ValenSE](/projects/valense/)

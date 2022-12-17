@@ -1,11 +1,8 @@
 ---
 title: "ValenSE"
 date: 2022-12-14T17:57:13-05:00
-draft: true
 type: page
 ---
-
-# ValenSE
 
 ValenSE is the ISO I built for my server. I have a server I use and
 maintain for data storage purposes as well hosting my own website and

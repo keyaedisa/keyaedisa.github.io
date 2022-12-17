@@ -1,11 +1,8 @@
 ---
 title: "ValenOS"
 date: 2022-12-14T17:57:23-05:00
-draft: true
 type: page
 ---
-
-# ValenOS
 
 ValenOS is the successor to newKai. After all the time I spent working
 on newKai, I realized it had become kind of unique to my Macbook's
