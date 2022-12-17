@@ -71,6 +71,9 @@ enableRobotsTXT = true
 #    {name = "stackoverflow", url = "https://example.com"},
     {name = "buymeacoffee", url = "https://buymeacoffee.com/keyaedisa"},
 #    {name = "instagram", url = "https://example.com"},
-    {name = "twitch", url = "https://twitch.tv/keyaedisa"},
-    {name = "email", url = "mailto:keyaedisa@proton.me"}
-  ]
+#    {name = "twitch", url = "https://twitch.tv/keyaedisa"},
+    {name = "email", url = "mailto:keyaedisa@proton.me"},
+
+	]
+
+#	showPostsOnHomePage = "popular"
