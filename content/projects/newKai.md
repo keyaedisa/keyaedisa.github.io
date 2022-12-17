@@ -1,6 +1,7 @@
 ---
 title: "newKai + newKaiso"
 date: 2022-12-14T17:57:33-05:00
+draft: false
 type: page
 ---
 

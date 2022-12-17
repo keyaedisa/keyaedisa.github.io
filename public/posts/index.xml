@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Key&#39;s Corner!</title>
-    <link>http://example.org/posts/</link>
+    <link>https://keyaedisa.github.io/posts/</link>
     <description>Recent content in Posts on Key&#39;s Corner!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Nov 2022 18:10:12 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Nov 2022 21:00:35 -0500</lastBuildDate><atom:link href="https://keyaedisa.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beginning of my blog!</title>
+      <link>https://keyaedisa.github.io/posts/beginningofblog/</link>
+      <pubDate>Sun, 27 Nov 2022 21:00:35 -0500</pubDate>
+      
+      <guid>https://keyaedisa.github.io/posts/beginningofblog/</guid>
+      <description>Welcome to my blog! Hello all! I&amp;rsquo;m Keyaedisa or Key for short! I am 22 years old and nonbinary. My pronouns are they/them. I am a developer who is also getting into the cyber security space. I plan on opening up my own security firm someday and getting into the iOS security space. I am passionate about nearly all things technology and love learning more. I have been learning a lot about programming and linux this past year.</description>
+    </item>
+    
     <item>
       <title>First Post</title>
-      <link>http://example.org/posts/firstpost/</link>
+      <link>https://keyaedisa.github.io/posts/firstpost/</link>
       <pubDate>Sun, 27 Nov 2022 18:10:12 -0500</pubDate>
       
-      <guid>http://example.org/posts/firstpost/</guid>
+      <guid>https://keyaedisa.github.io/posts/firstpost/</guid>
       <description>Hi! My name&amp;rsquo;s key and this is my first test post! I am not sure what to put here but this is just a test!</description>
     </item>
     

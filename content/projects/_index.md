@@ -4,7 +4,6 @@ date: 2022-11-27T19:57:40-05:00
 type: page
 ---
 
-
 ### My "completed" projects are:
 
 - [abs 2.0](/projects/abs/)

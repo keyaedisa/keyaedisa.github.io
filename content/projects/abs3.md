@@ -1,5 +1,5 @@
 ---
-title: "Abs 3.0"
+title: "abs 3.0"
 date: 2022-11-27T20:22:16-05:00
 image: "/images/abs3.png"
 type: page
@@ -18,7 +18,7 @@ big improvement over 2.0.
 The project repo can be found at [abs github](https://github.com/keyaedisa/abs)!
 
 One of the biggest features now available in abs 3.0 is the option to
-build to the latest Pure Vanilla Arch Monthly ISO's. abs 3.0 allows you
+build the latest Pure Vanilla Arch Monthly ISO's. abs 3.0 allows you
 to choose between the typical Vanilla Arch ISO experience (releng) and
 the option of going for the bare minimal version of Vanilla Arch built 
 with Arch's own baseline profile. It builds an ISO that has near only
