@@ -9,7 +9,10 @@ type: page
 
 - [abs 2.0](/projects/abs/)
 
-
-### My upcoming projects are:
-
 - [abs 3.0](/projects/abs3/)
+
+- [newKai](/projects/newKai/)
+
+- [ValenSE](/projects/ValenSE/)
+
+- [ValenOS](/projects/ValenOS/)
