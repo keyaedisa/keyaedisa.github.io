@@ -1,7 +1,7 @@
 ---
 title: "newKai + newKaiso"
 date: 2022-12-14T17:57:33-05:00
-type: post
+type: page
 ---
 
 newKai is the successor to a project I called Kairo. Kairo was my first
