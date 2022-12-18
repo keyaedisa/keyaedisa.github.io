@@ -16,4 +16,5 @@ type: page
 
 - [ValenSE](/projects/valense/)
 
-I have some smaller things I work on / have completed. That can be found at my [github](https://github.com/keyaedisa)
+I have some smaller things I work on / have completed such as my own oh-my-zsh theme, nano config and more. They can be found at my
+[github](https://github.com/keyaedisa)!
