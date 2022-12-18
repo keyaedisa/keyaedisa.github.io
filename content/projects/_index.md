@@ -15,3 +15,5 @@ type: page
 - [ValenOS](/projects/valenos/)
 
 - [ValenSE](/projects/valense/)
+
+I have some smaller things I work on / have completed. That can be found at my [github](https://github.com/keyaedisa)
