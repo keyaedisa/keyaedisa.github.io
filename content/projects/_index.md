@@ -16,5 +16,14 @@ type: page
 
 - [ValenSE](/projects/valense/)
 
-I have some smaller things I work on / have completed such as my own oh-my-zsh theme, nano config and more. They can be found at my
-[github](https://github.com/keyaedisa)!
+### My current projects are:
+
+- [abu](/projects/abu)
+
+- [ValenSE](/projects/valense/)
+
+- [ValenOS](/projects/valenos/)
+
+- [Pi](/projects/pi/)
+
+My [github](https://github.com/keyaedisa)!

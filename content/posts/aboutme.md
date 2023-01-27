@@ -2,7 +2,6 @@
 title: "About Key"
 date: 2022-12-16T23:58:58-05:00
 type: post
-weight: 1
 ---
 
 Hello! My name is Keyaedisa! You can call me Key for short. I am

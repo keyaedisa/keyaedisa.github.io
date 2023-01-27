@@ -6,7 +6,28 @@
     <description>Recent content in Posts on Key&#39;s Corner!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Nov 2022 21:00:35 -0500</lastBuildDate><atom:link href="https://keyaedisa.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jan 2023 16:17:26 -0500</lastBuildDate><atom:link href="https://keyaedisa.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Updates!</title>
+      <link>https://keyaedisa.github.io/posts/intro-abu/</link>
+      <pubDate>Fri, 27 Jan 2023 16:17:26 -0500</pubDate>
+      
+      <guid>https://keyaedisa.github.io/posts/intro-abu/</guid>
+      <description>Welcome Hi all. In this post I will be updating you all on what I am currently working on. See below:
+abu abu is an in development terminual utility written in C and bash. It starts an ncurses TUI that makes the archiso creation process newbie friendly. abs will be deprecated on abu&amp;rsquo;s first release.
+Project goals
+multiple user profiles that can be passed to custom add/delete/modify user profiles attractive tui thats easy to use ValenSE Yes I am picking ValenSE up again.</description>
+    </item>
+    
+    <item>
+      <title>About Key</title>
+      <link>https://keyaedisa.github.io/posts/aboutme/</link>
+      <pubDate>Fri, 16 Dec 2022 23:58:58 -0500</pubDate>
+      
+      <guid>https://keyaedisa.github.io/posts/aboutme/</guid>
+      <description>Hello! My name is Keyaedisa! You can call me Key for short. I am a 22 year old developer and junior security researcher. I am nonbinary and my pronouns are they/them. I am self taught and really enjoy the challenge of teaching my self what it takes. I am apart of the team at XeroLinux and responsible for the program known as abs used to build the Xero and XeroG ISO&amp;rsquo;s.</description>
+    </item>
+    
     <item>
       <title>Beginning of my blog!</title>
       <link>https://keyaedisa.github.io/posts/beginningofblog/</link>
