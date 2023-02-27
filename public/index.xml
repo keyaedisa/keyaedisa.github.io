@@ -8,6 +8,24 @@
     <language>en</language>
     <lastBuildDate>Sun, 27 Nov 2022 19:57:40 -0500</lastBuildDate><atom:link href="https://keyaedisa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Vnanorc</title>
+      <link>https://keyaedisa.github.io/projects/vnanorc/</link>
+      <pubDate>Mon, 27 Feb 2023 17:52:47 -0500</pubDate>
+      
+      <guid>https://keyaedisa.github.io/projects/vnanorc/</guid>
+      <description>vnanorc This is my nano config. It&amp;rsquo;s for Valen and I hope to bundle it with Xero soon. Feel free to modify or use. vnanorc git</description>
+    </item>
+    
+    <item>
+      <title>Feb23</title>
+      <link>https://keyaedisa.github.io/posts/feb23/</link>
+      <pubDate>Mon, 27 Feb 2023 17:40:56 -0500</pubDate>
+      
+      <guid>https://keyaedisa.github.io/posts/feb23/</guid>
+      <description>Feb Update Adding vnanorc to projects as well as valuca. Updated age in about me.</description>
+    </item>
+    
+    <item>
       <title>Project Updates!</title>
       <link>https://keyaedisa.github.io/posts/intro-abu/</link>
       <pubDate>Fri, 27 Jan 2023 16:17:26 -0500</pubDate>

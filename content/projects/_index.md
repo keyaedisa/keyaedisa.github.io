@@ -16,6 +16,8 @@ type: page
 
 - [ValenSE](/projects/valense/)
 
+- [vnanorc](/projects/vnanorc/)
+
 ### My current projects are:
 
 - [abu](/projects/abu)
