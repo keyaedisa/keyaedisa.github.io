@@ -6,4 +6,6 @@ type: page
 
 ## vnanorc
 
+![vnanorc](/images/nanorc.png "abs 3.0")
+
 This is my nano config. It's for Valen and I hope to bundle it with Xero soon. Feel free to modify or use. [vnanorc git](https://github.com/keyaedisa/vnanorc)
