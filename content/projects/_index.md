@@ -20,11 +20,11 @@ type: page
 
 ### My current projects are:
 
+- [xerolinux](https://xerolinux.xyz)
+
 - [abu](/projects/abu)
 
 - [ValenSE](/projects/valense/)
-
-- [ValenOS](/projects/valenos/)
 
 - [Pi](/projects/pi/)
 
