@@ -3,7 +3,21 @@
 <script src=https://keyaedisa.github.io/js/main.js></script></head><body><script type=text/javascript>setThemeByUserPref()</script><header class=header><nav class=header-nav><div class=avatar><a href=https://keyaedisa.github.io><img src=https://keyaedisa.github.io/images/purplespace.jpg alt=avatar></a></div><div class=nav-title><a class=nav-brand href=https://keyaedisa.github.io>Key's Corner!</a></div><div class=nav-links><div class=nav-link><a href=https://keyaedisa.github.io/><span data-feather=home></span> Home</a></div><div class=nav-link><a href=https://keyaedisa.github.io/posts/><span data-feather=book></span> Posts</a></div><div class=nav-link><a href=https://keyaedisa.github.io/projects/><span data-feather=code></span> Projects</a></div><div class=nav-link><a href=https://github.com/keyaedisa><span data-feather=github></span></a></div><div class=nav-link><a href=https://www.buymeacoffee.com/keyaedisa><span data-feather=coffee></span></a></div><span class=nav-icons-divider></span><div class="nav-link dark-theme-toggle"><span id=dark-theme-toggle-screen-reader-target class=sr-only></span>
 <a><span id=theme-toggle-icon data-feather=moon></span></a></div><div class=nav-link id=hamburger-menu-toggle><span id=hamburger-menu-toggle-screen-reader-target class=sr-only>menu</span>
 <a><span data-feather=menu></span></a></div><ul class="nav-hamburger-list visibility-hidden"><li class=nav-item><a href=https://keyaedisa.github.io/><span data-feather=home></span> Home</a></li><li class=nav-item><a href=https://keyaedisa.github.io/posts/><span data-feather=book></span> Posts</a></li><li class=nav-item><a href=https://keyaedisa.github.io/projects/><span data-feather=code></span> Projects</a></li><li class=nav-item><a href=https://github.com/keyaedisa><span data-feather=github></span></a></li><li class=nav-item><a href=https://www.buymeacoffee.com/keyaedisa><span data-feather=coffee></span></a></li><li class="nav-item dark-theme-toggle"><span id=dark-theme-toggle-screen-reader-target class=sr-only>theme</span>
-<a><span id=theme-toggle-icon data-feather=moon></span></a></li></ul></div></nav></header><main id=content><div class="post container"><div class=post-header-section><h1>ValenSE</h1></div><div class=post-content><p><p>ValenSE is the ISO I built for my server. I have a server I use and
+<a><span id=theme-toggle-icon data-feather=moon></span></a></li></ul></div></nav></header><main id=content><div class="post container"><div class=post-header-section><h1>ValenSE</h1></div><div class=post-content><p><p>##Update</p><p>I&rsquo;m currently completely rebuilding ValenSE from ground up. It will
+no longer come preinstalled with web server software or any of the
+specific to my use case software I bundled originally. ValenSE has
+been stripped of everything not essential to boot the LiveISO (this
+includes everything needed to allow it to be a headless ISO. P.S.
+SSH is only configured for my personal PC, you will need to add your
+own keys), and the installation scripts will be rewritten in C and
+also stripped of everything non-essential. The &ldquo;completed&rdquo; version
+will be forked and serve as the new base for any potential future
+ValenOS builds.</p><p>WiFi will not work ootb initially. I&rsquo;ll add support for this later
+when the core of ValenSE is done.</p><p>I briefly went over BIOS support with syslinux. It should work but
+if it does not let me know. All my systems are UEFI/iBoot. Grub is
+currenty bootloader. I&rsquo;d like to bundle it with reFind. Mainly
+because reFind automatically updates boot options when new OS&rsquo;s
+are deleted or added. If this breaks BIOS support then oh well.</p><hr><p>ValenSE is the ISO I built for my server. I have a server I use and
 maintain for data storage purposes as well hosting my own website and
 potentially minecraft server.</p><p>It taught me alot about how to setup Linux and a bootloader for a BIOS
 non-UEFI system. It is a command line only OS and comes bundled only
