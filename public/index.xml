@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Sun, 27 Nov 2022 19:57:40 -0500</lastBuildDate><atom:link href="https://keyaedisa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Ssh Tips and Tricks</title>
+      <link>https://keyaedisa.github.io/posts/ssh-tips-and-tricks/</link>
+      <pubDate>Wed, 07 Jun 2023 19:28:05 -0400</pubDate>
+      
+      <guid>https://keyaedisa.github.io/posts/ssh-tips-and-tricks/</guid>
+      <description>SSH Tips and Tricks! Hi! I was inspired to make a post about SSH that could be used as a somewhat quick reference for some basic SSH commands and tips and tricks regarding proper usage practices. Below you will find summaries of a few articles I found to have useful information. This way I felt would be better both for me writing this blog quickly and also for allowing you the reader to quickly read and decide what reference you actually need.</description>
+    </item>
+    
+    <item>
       <title>Vnanorc</title>
       <link>https://keyaedisa.github.io/projects/vnanorc/</link>
       <pubDate>Mon, 27 Feb 2023 17:52:47 -0500</pubDate>
@@ -72,8 +81,8 @@ There are some differences between newKai but ultimately I realized I was just f
       <pubDate>Wed, 14 Dec 2022 17:57:13 -0500</pubDate>
       
       <guid>https://keyaedisa.github.io/projects/valense/</guid>
-      <description>ValenSE is the ISO I built for my server. I have a server I use and maintain for data storage purposes as well hosting my own website and potentially minecraft server.
-It taught me alot about how to setup Linux and a bootloader for a BIOS non-UEFI system. It is a command line only OS and comes bundled only with what&amp;rsquo;s needed to boot live and install. It&amp;rsquo;s meant to be an Arch based OS that is just right for those who need a server OS and nothing more.</description>
+      <description>##Update
+I&amp;rsquo;m currently completely rebuilding ValenSE from ground up. It will no longer come preinstalled with web server software or any of the specific to my use case software I bundled originally. ValenSE has been stripped of everything not essential to boot the LiveISO (this includes everything needed to allow it to be a headless ISO. P.S. SSH is only configured for my personal PC, you will need to add your own keys), and the installation scripts will be rewritten in C and also stripped of everything non-essential.</description>
     </item>
     
     <item>
