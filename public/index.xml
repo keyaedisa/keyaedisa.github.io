@@ -9,6 +9,15 @@
     <lastBuildDate>Sun, 27 Nov 2022 19:57:40 -0500</lastBuildDate><atom:link href="https://keyaedisa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ssh Tips and Tricks</title>
+      <link>https://keyaedisa.github.io/posts/ssh-t-and-t/</link>
+      <pubDate>Wed, 07 Jun 2023 19:28:05 -0400</pubDate>
+      
+      <guid>https://keyaedisa.github.io/posts/ssh-t-and-t/</guid>
+      <description>SSH Tips and Tricks! Hi! I was inspired to make a post about SSH that could be used as a somewhat quick reference for some basic SSH commands and tips and tricks regarding proper usage practices. Below you will find summaries of a few articles I found to have useful information. This way I felt would be better both for me writing this blog quickly and also for allowing you the reader to quickly read and decide what reference you actually need.</description>
+    </item>
+    
+    <item>
+      <title>Ssh Tips and Tricks</title>
       <link>https://keyaedisa.github.io/posts/ssh-tips-and-tricks/</link>
       <pubDate>Wed, 07 Jun 2023 19:28:05 -0400</pubDate>
       
