@@ -1,7 +1,7 @@
 ---
 title: "Ssh Tips and Tricks"
 date: 2023-06-07T19:28:05-04:00
-type: post
+draft: false
 ---
 
 # SSH Tips and Tricks!
