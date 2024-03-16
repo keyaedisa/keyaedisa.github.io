@@ -8,4 +8,4 @@ shoutout hugo. probably would not have finished site if not for hugo.
 
 oh, and goklarna. nice good theme.
 
-check it out here [keyaedisa.github.io](https://keyaedisa.github.io)
+check it out here [keyaedisa.world](https://keyaedisa.world)
