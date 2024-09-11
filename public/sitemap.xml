@@ -2,62 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://keyaedisa.world/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-06-07T19:28:05-04:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/posts/ssh-t-and-t/</loc>
+    <loc>http://localhost:1313/posts/ssh-t-and-t/</loc>
     <lastmod>2023-06-07T19:28:05-04:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/posts/ssh-tips-and-tricks/</loc>
+    <loc>http://localhost:1313/posts/ssh-tips-and-tricks/</loc>
     <lastmod>2023-06-07T19:28:05-04:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/projects/vnanorc/</loc>
+    <loc>http://localhost:1313/projects/vnanorc/</loc>
     <lastmod>2023-02-27T17:52:47-05:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/posts/feb23/</loc>
+    <loc>http://localhost:1313/posts/feb23/</loc>
     <lastmod>2023-02-27T17:40:56-05:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/posts/intro-abu/</loc>
+    <loc>http://localhost:1313/posts/intro-abu/</loc>
     <lastmod>2023-01-27T16:17:26-05:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/posts/aboutme/</loc>
+    <loc>http://localhost:1313/posts/aboutme/</loc>
     <lastmod>2022-12-16T23:58:58-05:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/projects/newkai/</loc>
+    <loc>http://localhost:1313/projects/newkai/</loc>
     <lastmod>2022-12-14T17:57:33-05:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/projects/valenos/</loc>
+    <loc>http://localhost:1313/projects/valenos/</loc>
     <lastmod>2022-12-14T17:57:23-05:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/projects/valense/</loc>
+    <loc>http://localhost:1313/projects/valense/</loc>
     <lastmod>2022-12-14T17:57:13-05:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/posts/beginningofblog/</loc>
+    <loc>http://localhost:1313/posts/beginningofblog/</loc>
     <lastmod>2022-11-27T21:00:35-05:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/projects/abs3/</loc>
+    <loc>http://localhost:1313/projects/abs3/</loc>
     <lastmod>2022-11-27T20:22:16-05:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-11-27T19:57:40-05:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2022-11-27T19:57:40-05:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/projects/abs/</loc>
+    <loc>http://localhost:1313/projects/abs/</loc>
     <lastmod>2022-11-27T19:54:01-05:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/projects/abu/</loc>
+    <loc>http://localhost:1313/projects/abu/</loc>
     <lastmod>2022-11-27T19:54:01-05:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/projects/pi/</loc>
+    <loc>http://localhost:1313/projects/pi/</loc>
     <lastmod>2022-11-27T19:54:01-05:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/posts/firstpost/</loc>
+    <loc>http://localhost:1313/posts/firstpost/</loc>
     <lastmod>2022-11-27T18:10:12-05:00</lastmod>
   </url><url>
-    <loc>https://keyaedisa.world/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://keyaedisa.world/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
