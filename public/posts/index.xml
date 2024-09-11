@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Key&#39;s Corner!</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://keyaedisa.world/posts/</link>
     <description>Recent content in Posts on Key&#39;s Corner!</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 07 Jun 2023 19:28:05 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://keyaedisa.world/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ssh Tips and Tricks</title>
-      <link>http://localhost:1313/posts/ssh-t-and-t/</link>
+      <link>https://keyaedisa.world/posts/ssh-t-and-t/</link>
       <pubDate>Wed, 07 Jun 2023 19:28:05 -0400</pubDate>
-      <guid>http://localhost:1313/posts/ssh-t-and-t/</guid>
+      <guid>https://keyaedisa.world/posts/ssh-t-and-t/</guid>
       <description>&lt;h1 id=&#34;ssh-tips-and-tricks&#34;&gt;SSH Tips and Tricks!&lt;/h1&gt;&#xA;&lt;p&gt;Hi! I was inspired to make a post about SSH that could be used as a somewhat quick reference for some basic SSH commands and tips and tricks regarding proper usage practices.&#xA;Below you will find summaries of a few articles I found to have useful information. This way I felt would be better both for me writing this blog quickly and also for allowing you the reader to quickly read and decide what reference you actually need.&#xA;Where possible, you should definitely use SSH authentication. Not only because it&amp;rsquo;s more secure, but also because it&amp;rsquo;s a really good way to speed up your workflow especially if you live in the terminal like me! I know that many of you have workflows that aren&amp;rsquo;t terminal centric and if they work for you then great! I will however advocate that you do learn how to live in a terminal as it can significantly speed up your work flow! No need to traverse ui&amp;rsquo;s and bounce around apps when you can do most if not all of it in the terminal ya know? Anyways, below you can find some good refs and their summaries!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ssh Tips and Tricks</title>
-      <link>http://localhost:1313/posts/ssh-tips-and-tricks/</link>
+      <link>https://keyaedisa.world/posts/ssh-tips-and-tricks/</link>
       <pubDate>Wed, 07 Jun 2023 19:28:05 -0400</pubDate>
-      <guid>http://localhost:1313/posts/ssh-tips-and-tricks/</guid>
+      <guid>https://keyaedisa.world/posts/ssh-tips-and-tricks/</guid>
       <description>&lt;h1 id=&#34;ssh-tips-and-tricks&#34;&gt;SSH Tips and Tricks!&lt;/h1&gt;&#xA;&lt;p&gt;Hi! I was inspired to make a post about SSH that could be used as a somewhat quick reference for some basic SSH commands and tips and tricks regarding proper usage practices.&#xA;Below you will find summaries of a few articles I found to have useful information. This way I felt would be better both for me writing this blog quickly and also for allowing you the reader to quickly read and decide what reference you actually need.&#xA;Where possible, you should definitely use SSH authentication. Not only because it&amp;rsquo;s more secure, but also because it&amp;rsquo;s a really good way to speed up your workflow especially if you live in the terminal like me! I know that many of you have workflows that aren&amp;rsquo;t terminal centric and if they work for you then great! I will however advocate that you do learn how to live in a terminal as it can significantly speed up your work flow! No need to traverse ui&amp;rsquo;s and bounce around apps when you can do most if not all of it in the terminal ya know? Anyways, below you can find some good refs and their summaries!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Feb23</title>
-      <link>http://localhost:1313/posts/feb23/</link>
+      <link>https://keyaedisa.world/posts/feb23/</link>
       <pubDate>Mon, 27 Feb 2023 17:40:56 -0500</pubDate>
-      <guid>http://localhost:1313/posts/feb23/</guid>
+      <guid>https://keyaedisa.world/posts/feb23/</guid>
       <description>&lt;h2 id=&#34;feb-update&#34;&gt;Feb Update&lt;/h2&gt;&#xA;&lt;p&gt;Adding vnanorc to projects as well as valuca. Updated age in about me.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Project Updates!</title>
-      <link>http://localhost:1313/posts/intro-abu/</link>
+      <link>https://keyaedisa.world/posts/intro-abu/</link>
       <pubDate>Fri, 27 Jan 2023 16:17:26 -0500</pubDate>
-      <guid>http://localhost:1313/posts/intro-abu/</guid>
+      <guid>https://keyaedisa.world/posts/intro-abu/</guid>
       <description>&lt;h1 id=&#34;welcome&#34;&gt;Welcome&lt;/h1&gt;&#xA;&lt;p&gt;Hi all. In this post I will be updating you all on what I am currently working on. See below:&lt;/p&gt;&#xA;&lt;h1 id=&#34;abu&#34;&gt;abu&lt;/h1&gt;&#xA;&lt;p&gt;abu is an in development terminual utility written in C and bash. It starts an ncurses TUI that makes the archiso creation process newbie friendly.&#xA;abs will be deprecated on abu&amp;rsquo;s first release.&lt;/p&gt;&#xA;&lt;p&gt;Project goals&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;multiple user profiles that can be passed to custom&lt;/li&gt;&#xA;&lt;li&gt;add/delete/modify user profiles&lt;/li&gt;&#xA;&lt;li&gt;attractive tui thats easy to use&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;valense&#34;&gt;ValenSE&lt;/h1&gt;&#xA;&lt;p&gt;Yes I am picking ValenSE up again. Server was dormant for a bit but is now up and running once more. More on this later.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Key</title>
-      <link>http://localhost:1313/posts/aboutme/</link>
+      <link>https://keyaedisa.world/posts/aboutme/</link>
       <pubDate>Fri, 16 Dec 2022 23:58:58 -0500</pubDate>
-      <guid>http://localhost:1313/posts/aboutme/</guid>
+      <guid>https://keyaedisa.world/posts/aboutme/</guid>
       <description>&lt;p&gt;Hello! My name is Keyaedisa! You can call me Key for short. I am&#xA;a 22 year old developer and junior security researcher. I am nonbinary&#xA;and my pronouns are they/them. I am self taught and really enjoy the&#xA;challenge of teaching my self what it takes. I am apart of the team at &lt;a href=&#34;https://xerolinux.xyz&#34;&gt;XeroLinux&lt;/a&gt;&#xA;and responsible for the program known as &lt;a href=&#34;https://github.com/keyaedisa/abs&#34;&gt;abs&lt;/a&gt;&#xA;used to build the Xero and XeroG ISO&amp;rsquo;s. I am a fan of all things&#xA;tech, science, and space. I love cars as well as drifting.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beginning of my blog!</title>
-      <link>http://localhost:1313/posts/beginningofblog/</link>
+      <link>https://keyaedisa.world/posts/beginningofblog/</link>
       <pubDate>Sun, 27 Nov 2022 21:00:35 -0500</pubDate>
-      <guid>http://localhost:1313/posts/beginningofblog/</guid>
+      <guid>https://keyaedisa.world/posts/beginningofblog/</guid>
       <description>&lt;h1 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to my blog!&lt;/h1&gt;&#xA;&lt;p&gt;Hello all! I&amp;rsquo;m Keyaedisa or Key for short! I am 22 years old and nonbinary. My&#xA;pronouns are they/them. I am a developer who is also getting into the cyber&#xA;security space. I plan on opening up my own security firm someday and getting&#xA;into the iOS security space. I am passionate about nearly all things technology&#xA;and love learning more. I have been learning a lot about programming and linux&#xA;this past year. I use arch btw!&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/posts/firstpost/</link>
+      <link>https://keyaedisa.world/posts/firstpost/</link>
       <pubDate>Sun, 27 Nov 2022 18:10:12 -0500</pubDate>
-      <guid>http://localhost:1313/posts/firstpost/</guid>
+      <guid>https://keyaedisa.world/posts/firstpost/</guid>
       <description>&lt;p&gt;Hi! My name&amp;rsquo;s key and this is my first test post! I am not sure what to put here but this is just a test!&lt;/p&gt;</description>
     </item>
   </channel>
