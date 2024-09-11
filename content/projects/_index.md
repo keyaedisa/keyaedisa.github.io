@@ -18,9 +18,17 @@ type: page
 
 - [vnanorc](/projects/vnanorc/)
 
-### My current projects are:
+### Projects I am retired from:
 
 - [xerolinux](https://xerolinux.xyz)
+
+### My current / latent projects are:
+
+- [Solana Explorer SHell](/projects/solesh/)
+
+- [World Eater Solana EXplorer](/projects/wesex/)
+
+- [tubie](projects/tubie/)
 
 - [abu](/projects/abu)
 
